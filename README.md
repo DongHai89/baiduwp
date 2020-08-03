@@ -1,5 +1,5 @@
 # baiduwp
-PanDownload Web, built with CloudFlare Workers
+使用CloudFlare Workers构建的PanDownload Web
 # Demo
 https://pandl.live
 # Usage
